@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://unica.md/wp-content/uploads/2018/08/ghicitori-8-702x336.jpg) ;
+}
+
+#container {
+    background-color: rgb(97, 184, 224);
+    border-radius: 30px;
+        height: 250px;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+p{
+    color: white;
+    font-size: 25px;
+}
+#input {
+    width: 100px;
+    margin: 25px auto;
+}
+
+#btn{
+    margin: 25px auto auto 5px;
+}
